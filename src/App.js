@@ -3,22 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Ysa XD
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Aprendendo React
-        </a>
-      </header>
-    </div>
+    <div>Pagina Pessoal da YsaROT</div>
   );
 }
 
